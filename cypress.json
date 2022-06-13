@@ -1,0 +1,5 @@
+{
+    "video":false,
+    "responseTimeout": 50000,
+    "pageLoadTimeout": 50000
+}
